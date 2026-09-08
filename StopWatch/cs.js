@@ -88,3 +88,4 @@ pauseBtn.addEventListener("click", pauseStopwatch);
 resetBtn.addEventListener("click", resetStopwatch);
 
 updateDisplay();
+
